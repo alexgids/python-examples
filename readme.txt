@@ -1,5 +1,5 @@
-Move Data science - Leads Forecast:
-----------------------------------
+ Leads Forecast:
+----------------
 
 This readme.txt outlines the usage of the forecast framework. Below sections contains the steps for build installation.
 
@@ -62,15 +62,3 @@ Important Links:
 fbprophet - https://facebook.github.io/prophet/
 
 Aggregated Forecast for 52 weeks (July 16 - Jun 17) & Monthly Forecast:
-
-http://realtorpoc-chronograf-lb-1864642415.us-west-2.elb.amazonaws.com/notebooks/notebooks/Aggregated%20Forecast%20for%2052%20weeks%20(July%2016%20-%20Jun%2017)%20%26%20Monthly%20Forecast.ipynb
-
-Analysis and aggregated forecast:
-
-http://realtorpoc-chronograf-lb-1864642415.us-west-2.elb.amazonaws.com/notebooks/notebooks/Analysis%20and%20Forecast%20on%20Aggregated%20Data%20(complete%20set).ipynb
-
-Home URL of notebook
-
-http://realtorpoc-chronograf-lb-1864642415.us-west-2.elb.amazonaws.com
-
-password: dhEQ5lcq
